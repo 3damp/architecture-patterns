@@ -1,4 +1,4 @@
-package p4.database_examples;
+package database_examples;
 
 import java.sql.*;
 
